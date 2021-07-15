@@ -11,10 +11,9 @@ The workshop will give background about the collection and storage of medical da
 Workshop will be held virtually via **zoom**. Zoom link will be sent to participants before the event.
 
 ## Registration
-Use this link for registration https://bit.ly/dataliteracy_ws
+Use this link for registration (https://bit.ly/dataliteracy_ws)
 
 **Registration deadline is August 15, 2021.**
-
 ## Topics
 **Data and computers**
 - How is data represented in a computer?
