@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Welcome to Data literacy workshop for healthcare professionals!
+We are happy to invite you to participate in the first Data literacy workshop for healthcare professionals organised by the University of Tartu in the frames of DataClinic Erasmus + project. 
 
-You can use the [editor on GitHub](https://github.com/esugis/Data-literacy-workshop-for-healthcare-professionals/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The workshop will give background about the collection and storage of medical data and teaches how to better organise, prepare and analyse data in clinical setup. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Date & Time
+**August 19, 2021, 
+13:00 - 16:00**
 
-### Markdown
+## Place
+Workshop will be held virtually via **zoom**. Zoom link will be sent to participants before the event.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Registration
+Use thiis link for registration 
 
-```markdown
-Syntax highlighted code block
+**Registration deadline is August 15, 2021.**
 
-# Header 1
-## Header 2
-### Header 3
+## Topics
+**Data and computers**
+- How is data represented in a computer?
+- What computer systems are used for analytics?
 
-- Bulleted
-- List
+**Medical data** 
+- How is data collected?
+- How is medical data stored?
+ 
+**Reproducibility** 
+- Why is reproducibility important?
+- How to work more reproducibly?
 
-1. Numbered
-2. List
+**Data analytics workflow**
+- What are the common steps in data analysis projects?
 
-**Bold** and _Italic_ and `Code` text
+**Data formatting with spreadsheets**
+- How to organize data in a spreadsheet program?
+- What can go wrong with spreadsheets?
 
-[Link](url) and ![Image](src)
-```
+**Spreadsheets and reproducible workflows**
+- How to get data out of spreadsheets?
+- Why are spreadsheets suboptimal for reproducible research?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Learning outcomes
+By the end of the course you will:
 
-### Jekyll Themes
+- Know how the medical data is stored and represented
+- Understand typical data analysis workflow 
+- Understand the concept of reproducible research
+- Will be able to apply best practices in working with spreadsheets 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esugis/Data-literacy-workshop-for-healthcare-professionals/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Workshop plan
+“Data and computers” - “Data analytics workflows” 
+- Live presentations with slides + handouts 
+- Each topic will have exercise and discussion in the end
+“Data formatting with spreadsheets” and “Spreadsheets and reproducible workflows”
+- Use the materials in Storyline, we will provide online support through Zoom 
+- Live discussion of the exercises in the end
