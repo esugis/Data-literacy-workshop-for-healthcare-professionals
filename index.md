@@ -46,3 +46,10 @@ By the end of the course you will:
 - Understand typical data analysis workflow 
 - Understand the concept of reproducible research
 - Will be able to apply best practices in working with spreadsheets 
+
+## Instructors
+Raivo Kolde, PhD, Associate Professor of Health Informatics, University of Tartu
+
+Elena Sügis, PhD, Assistant Professor of Health Informatics, University of Tartu
+
+
